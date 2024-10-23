@@ -10,7 +10,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Logos&amp;Images\" />
+    <Compile Remove="Logos&amp;Images\**" />
+    <EmbeddedResource Remove="Logos&amp;Images\**" />
+    <None Remove="Logos&amp;Images\**" />
+    <Page Remove="Logos&amp;Images\**" />
   </ItemGroup>
 
 </Project>
