@@ -1,1 +1,1 @@
-# MohammedAli_SalihouKingue_ArthurTchangou_ProjetUa2ApplicationBureau
+# Projet UA2 pour le cours d'application de bureau
